@@ -104,5 +104,5 @@ We’re actively open to:
 ---
 
 <p align="center">
-  <img src="https://abnahid.com/images/logo-full.png" alt="AB Nahid Agency" width="200" />
+  <img src="https://www.abnahid.com/assets/SVG/logo.svg" alt="AB Nahid Agency" width="200" />
 </p>
