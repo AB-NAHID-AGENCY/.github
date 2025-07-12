@@ -71,6 +71,8 @@ We are a passionate team of developers, designers, marketers, and strategists:
 | **Mizanur Roshid**         | Digital Marketing Specialist |
 | **Sakhawat Hossain**       | Digital Marketing Specialist |
 | **Tahsin Akther Natasha**  | Client Success Executive     |
+| **Abdullah Al Nabil**  | 	Expired AI Prompt Engineer & Software Engineer     |
+
 
 
 ---
